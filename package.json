@@ -11,5 +11,12 @@
   "description": "",
   "devDependencies": {
     "@types/node": "22.7.4"
+  },
+  "dependencies": {
+    "@mgcrea/fastify-request-logger": "1.9.0",
+    "@mgcrea/pino-pretty-compact": "1.4.2",
+    "dotenv": "16.4.5",
+    "fastify": "5.1.0",
+    "pino-pretty": "13.0.0"
   }
 }
